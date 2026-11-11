@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Back up only the reader's own choices; downloaded pages are re-fetched. -->
+<full-backup-content>
+    <include domain="file" path="core/saved.json" />
+    <include domain="file" path="core/settings.json" />
+</full-backup-content>

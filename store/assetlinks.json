@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.foulfoxhacks.mellozone",
+      "sha256_cert_fingerprints": [
+        "2E:35:BB:E1:1D:A6:2F:DA:AF:BA:5B:98:F6:9B:58:42:E7:1F:19:45:1D:24:3E:CF:6E:8E:98:BB:02:C6:76:D8",
+        "REPLACE_WITH_PLAY_APP_SIGNING_SHA256_FROM_PLAY_CONSOLE"
+      ]
+    }
+  }
+]

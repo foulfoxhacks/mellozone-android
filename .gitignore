@@ -1,0 +1,22 @@
+# Build output
+.gradle/
+build/
+app/build/
+rust/target/
+local.properties
+
+# Native libraries are produced by `cargo ndk` during the Gradle build
+app/src/main/jniLibs/
+
+# Signing material: never commit these
+keystore.properties
+*.jks
+*.keystore
+
+# IDE
+.idea/
+*.iml
+.kotlin/
+
+# Built release artifacts
+release/
